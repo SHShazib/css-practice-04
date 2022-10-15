@@ -1,0 +1,10 @@
+.static{
+    background-color: aqua;
+    width: 50%;
+    height: 200px;
+    left: 100px;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+}
