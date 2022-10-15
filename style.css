@@ -29,6 +29,17 @@
     position: static;
     overflow: hidden;
 }
+.static1 .img1{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 10px;
+}
+.static1 .img2{
+    width: 150px;
+    height: 150px;
+    float: right;
+}
 .static2{
     position: static;
     overflow: scroll;
@@ -133,5 +144,13 @@
     color: yellow;
 }
 .div4:hover{
-
+    background-color: antiquewhite;
+    color: black;
+}
+.div5{
+    background-color: #000;
+    color: #000;
+}
+.div5:hover{
+    
 }
